@@ -3,7 +3,6 @@
 I took every english word (over 200k words) and built a little NodeJS
 app that will help you find words that contain specific characters.
 
-Additionally, here are instructions to deploy this app to Heroku.
 
 ##How to Use
 
